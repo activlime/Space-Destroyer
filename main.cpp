@@ -9,7 +9,7 @@
     		/Alien
     		/AlienBullet
     		/MasterAlien
-    		/Bullet
+    		/Bullet 
     		/Thing
     		/Gameview
     		/Spaceship
