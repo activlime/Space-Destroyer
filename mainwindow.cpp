@@ -10,7 +10,7 @@
 #include <QKeyEvent>
 #include "gameview.h"
 #include "bullet.h"
-#include <QErrorMessage>
+#include <QErrorMessage> 
 #include <QPalette>
 #include <QLineEdit>
 #include <QString>
