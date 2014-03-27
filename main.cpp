@@ -1,7 +1,4 @@
-/** @mainpage CSCI102 Programming Assignment 5
-		Name : Andrew Cho
-		ID   : 6042240885
-		Prof : Professor Redekopp
+/** @mainpage
     @section purpose Purpose/Overview
     	This program computer graphics game where the objective is to kill as many aliens as possible to rack up as many points as possible
     @section classes
